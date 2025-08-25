@@ -3,7 +3,7 @@
 </p>
 ---
 
-#  Hi, Ngotung - Ngocok, Tumbang.. 👋
+#  Hi, Kaum Ngotung - Ngocok, Tumbang.. 👋
 
 ⚡ **Sysadmin | 🚀 DevOps | 🌐 Network Enthusiast**  
 
